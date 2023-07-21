@@ -4,8 +4,6 @@ O AnimeSearcher é uma ferramenta poderosa desenvolvida em Node.js e Puppeteer q
 
 ## Principais Recursos
 
-- **Busca Avançada:** O AnimeSearcher utiliza a biblioteca Puppeteer para realizar pesquisas precisas e abrangentes em diversos sites de streaming de animes, garantindo que você encontre o conteúdo desejado rapidamente.
-
 - **Downloads Simples:** Com apenas alguns comandos, você pode iniciar o processo de download de episódios ou temporadas inteiras dos animes que escolher, facilitando o acesso offline para maratonas ou momentos sem conexão com a internet.
 
 - **Personalização Flexível:** O código é altamente configurável, permitindo que você ajuste as configurações para se adequar ao seu gosto pessoal ou às exigências específicas de cada anime.
@@ -20,7 +18,7 @@ O AnimeSearcher é uma ferramenta poderosa desenvolvida em Node.js e Puppeteer q
 
 3. Execute o comando `npm install` para instalar as dependências necessárias.
 
-4. Inicie o AnimeSearcher utilizando o comando `node anime_searcher.js`.
+4. Inicie o AnimeSearcher utilizando o comando `node app.js`.
 
 5. Siga as instruções fornecidas pelo programa para buscar e baixar os animes de sua escolha.
 
