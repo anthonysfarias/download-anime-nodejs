@@ -1,0 +1,13 @@
+# Arquivos e diretórios específicos para Node.js
+node_modules/
+package-lock.json
+npm-debug.log
+
+# Arquivos específicos para Visual Studio Code
+.vscode/
+
+# Arquivos específicos para macOS
+.DS_Store
+
+# Arquivos específicos para Windows
+Thumbs.db

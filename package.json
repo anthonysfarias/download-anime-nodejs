@@ -1,0 +1,6 @@
+{
+  "author": "Anthony S Farias",
+  "dependencies": {
+    "puppeteer": "^20.9.0"
+  }
+}
